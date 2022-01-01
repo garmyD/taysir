@@ -1,0 +1,1 @@
+{"realm":"taysir","auth-server-url":"http://localhost:8080/auth","ssl-required":"external","resource":"taysir","credentials":{"secret":"5a046c09-77ff-4360-9f85-ed1da86498e9"},"use-resource-role-mappings":true}
